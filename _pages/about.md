@@ -46,6 +46,7 @@ Publications
   float: left;
   display: flex;
   align-items: center;
+  height: 100%;
 }
 p {
   display: block;
@@ -74,7 +75,7 @@ p {
   float: right;
 }
 .publogo {
-  margin-right: 20px;
+  margin-right: 15px;
   float: left;
   border: 0;
 }
