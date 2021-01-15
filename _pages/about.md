@@ -57,7 +57,6 @@ div {
   padding-top: 5px;
 }
 .publogo {
-  width: 100px;
   margin-right: 20px;
   float: left;
   border: 0;
