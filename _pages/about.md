@@ -41,6 +41,28 @@ Publications
     </div>
 </div>
 
+<div class="publication">
+    <div class="proimg">
+        <img src="/images/memory+.png" class="publogo" width="200px">
+    </div>
+    <div class="procontext">
+      <p> 
+          <strong>
+          <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdf" class="first">Memory aggregated CFBI+ for interactive video object segmentation</a>
+          </strong>
+          <br>
+          <br>
+          <b>Chen Liang</b>, Zongxin Yang, Jiaxu Miao, Yunchao Wei, Yi Yang
+          <br>
+          <em>DAVIS Challenge; CVPR Workshops</em>
+          <br>
+          <span class="links">
+              <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdff" class="first">PDF</a>
+          </span>
+      </p>
+    </div>
+</div>
+
 
 <style>
 .publication .proimg {
@@ -65,6 +87,7 @@ Publications
   background-color: #fff;
   float: left;
   width: 750px;
+  margin-bottom: 10px;
 }
 .publication {
   clear: left;
