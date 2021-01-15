@@ -20,35 +20,38 @@ Publications
 ======
 <h3>2020</h3>
 <div class="publication">
-    <div>
+    <div class="proimg">
         <img src="/images/memory+.png" class="publogo" width="200px">
     </div>
-    <p> 
-        <strong>
-        <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdf" class="first">Memory aggregated CFBI+ for interactive video object segmentation</a>
-        </strong>
-        <br>
-        <br>
-        <b>Chen Liang</b>, Zongxin Yang, Jiaxu Miao, Yunchao Wei, Yi Yang
-        <br>
-        <em>DAVIS Challenge; CVPR Workshops</em>
-        <br>
-        <span class="links">
-            <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdff" class="first">PDF</a>
-        </span>
-    </p>
+    <div class="procontext">
+      <p> 
+          <strong>
+          <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdf" class="first">Memory aggregated CFBI+ for interactive video object segmentation</a>
+          </strong>
+          <br>
+          <br>
+          <b>Chen Liang</b>, Zongxin Yang, Jiaxu Miao, Yunchao Wei, Yi Yang
+          <br>
+          <em>DAVIS Challenge; CVPR Workshops</em>
+          <br>
+          <span class="links">
+              <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdff" class="first">PDF</a>
+          </span>
+      </p>
+    </div>
 </div>
 
 
 <style>
-.publication div {
+.publication .proimg {
   display: block;
   float: left;
   display: flex;
   align-items: center;
   height: 100%;
 }
-p {
+.publication .procontext {
+  float: right;
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -72,7 +75,6 @@ p {
 .publication p {
   height: 100px;
   padding-top: 5px;
-  float: right;
 }
 .publogo {
   margin-right: 15px;
