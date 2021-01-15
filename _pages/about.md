@@ -16,5 +16,45 @@ Updates
 ======
 January, 2021: Post the [website](https://leonnnop.github.io/).
 
-<!-- Publications
-====== -->
+Publications
+======
+<h4>2020</h4>
+<div class="publication">
+    <img src="images/memory+.png" class="publogo" width="200 px">
+    <p> 
+        <strong>
+        <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdf" class="first">Memory aggregated CFBI+ for interactive video object segmentation</a>
+        </strong>
+        <br>
+        <br>
+        <b>Chen Liang</b>, Zongxin Yang, Jiaxu Miao, Yunchao Wei, Yi Yang
+        <br>
+        <em>DAVIS Challenge; CVPR Workshops</em>
+        <br>
+        <span class="links">
+            <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdff" class="first">PDF</a>
+        </span>
+    </p>
+</div>
+
+
+<style>
+.publication {
+    clear: left;
+    padding-bottom: 0px;
+}
+.publication p {
+    height: 100px;
+    padding-top: 5px;
+}
+.publogo {
+    width: 100 px;
+    margin-right: 20px;
+    float: left;
+    border: 0;
+}
+.publication .links {
+    position: relative;
+    top: 15px;
+}
+</style>;
