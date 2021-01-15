@@ -41,8 +41,11 @@ Publications
 
 
 <style>
-div {
+.publication div {
   display: block;
+  float: left;
+  display: flex;
+  align-items: center;
 }
 p {
   display: block;
@@ -60,13 +63,15 @@ p {
 .publication {
   clear: left;
   padding-bottom: 0px;
+  height: 150px;
 }
-/* .publication img {
+.publication img {
   margin-top: 5px;
-} */
+}
 .publication p {
   height: 100px;
   padding-top: 5px;
+  float: right;
 }
 .publogo {
   margin-right: 20px;
