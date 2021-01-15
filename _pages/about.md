@@ -42,6 +42,13 @@ Publications
 div {
   display: block;
 }
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
 .publication {
   padding: 0;
   font-family: Arial;
@@ -51,6 +58,9 @@ div {
 .publication {
   clear: left;
   padding-bottom: 0px;
+}
+.publication img {
+  margin-top: 5px;
 }
 .publication p {
   height: 100px;
