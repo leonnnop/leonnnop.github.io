@@ -18,7 +18,7 @@ January, 2021: Post the [website](https://leonnnop.github.io/).
 
 Publications
 ======
-<h4>2020</h4>
+<h3>2020</h3>
 <div class="publication">
     <img src="images/memory+.png" class="publogo" width="200 px">
     <p> 
@@ -39,22 +39,31 @@ Publications
 
 
 <style>
+div {
+  display: block;
+}
 .publication {
-    clear: left;
-    padding-bottom: 0px;
+  padding: 0;
+  font-family: Arial;
+  font-size: 16px;
+  background-color: #fff;
+}
+.publication {
+  clear: left;
+  padding-bottom: 0px;
 }
 .publication p {
-    height: 100px;
-    padding-top: 5px;
+  height: 100px;
+  padding-top: 5px;
 }
 .publogo {
-    width: 100 px;
-    margin-right: 20px;
-    float: left;
-    border: 0;
+  width: 100 px;
+  margin-right: 20px;
+  float: left;
+  border: 0;
 }
 .publication .links {
-    position: relative;
-    top: 15px;
+  position: relative;
+  top: 15px;
 }
 </style>;
