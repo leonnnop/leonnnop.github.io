@@ -41,7 +41,7 @@ Publications
     </div>
 </div>
 
-<div class="publication">
+<!-- <div class="publication">
     <div class="proimg">
         <img src="/images/memory+.png" class="publogo" width="200px">
     </div>
@@ -61,7 +61,7 @@ Publications
           </span>
       </p>
     </div>
-</div>
+</div> -->
 
 
 <style>
