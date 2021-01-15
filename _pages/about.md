@@ -63,11 +63,13 @@ Publications
   font-family: Arial;
   font-size: 16px;
   background-color: #fff;
+  float: left;
+  width: 750px;
 }
 .publication {
   clear: left;
   padding-bottom: 0px;
-  height: 150px;
+  height: 170px;
 }
 .publication img {
   margin-top: 5px;
