@@ -20,7 +20,7 @@ Publications
 ======
 <h3>2020</h3>
 <div class="publication">
-    <img src="images/memory+.png" class="publogo" width="200 px">
+    <img src="/images/memory+.png" class="publogo" width="200 px">
     <p> 
         <strong>
         <a href="https://davischallenge.org/challenge2020/papers/DAVIS-Interactive-Challenge-3rd-Team.pdf" class="first">Memory aggregated CFBI+ for interactive video object segmentation</a>
